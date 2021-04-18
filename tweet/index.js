@@ -11,7 +11,7 @@ const twit = new Twit({
 
 const mediaArtsSearch = {
   q: "#plasma",
-  count: 10,
+  count: 100,
   result_type: "recent",
 };
 
